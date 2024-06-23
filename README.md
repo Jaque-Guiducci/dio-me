@@ -1,5 +1,4 @@
-# Trilha Python AI Backend Developer - DIO 
-
+# Trilha Python AI Backend Developer - DIO
 ### Este repositório foi criado para prática durante o Bootcamp Python AI Backend Developer da DIO
 
 ## Tecnologias
